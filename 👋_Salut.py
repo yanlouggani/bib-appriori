@@ -9,7 +9,7 @@ from mlxtend.frequent_patterns import apriori
 from mlxtend.frequent_patterns import association_rules
 
 st.set_page_config(page_title="Application de l'algorithme d'appriori sur une simulation de données d'emprunts de livres d'une bibliothèque", 
-                   page_icon="📖" )
+                   page_icon="👋" )
 st.sidebar.success("séléctionnez une page audessus")
 
 st.title("Bienvenue dans notre demonstration de l'algorithme d'appriori dans le contexte d'une bibliothèque 👋")
